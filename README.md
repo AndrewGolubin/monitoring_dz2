@@ -38,6 +38,8 @@
 
 Алерт из Grafana с отражением в Telegram
 
+![Slide_6](https://user-images.githubusercontent.com/23739863/170945442-a0a7d456-92ed-4f0f-b5c7-898f276b9c35.png)
+
 
 
 
