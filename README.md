@@ -32,3 +32,9 @@
 
 ![Slide_4](https://user-images.githubusercontent.com/23739863/170944724-e76b8acf-b750-4dd6-91ef-fad8af179687.png)
 
+Дашборд Site aviability
+
+![Slide_5](https://user-images.githubusercontent.com/23739863/170944914-3c6440f8-bcf0-4097-aeb4-0c009fc06058.png)
+
+
+
