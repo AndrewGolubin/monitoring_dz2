@@ -40,7 +40,7 @@
 
 ![Slide_6](https://user-images.githubusercontent.com/23739863/170945442-a0a7d456-92ed-4f0f-b5c7-898f276b9c35.png)
 
-
+![Slide_7](https://user-images.githubusercontent.com/23739863/170945604-4ea955ce-814c-4ba7-9dc1-51bc60d34913.png)
 
 
 
