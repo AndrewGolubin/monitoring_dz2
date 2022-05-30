@@ -22,3 +22,5 @@
 
 ![Slide_1](https://user-images.githubusercontent.com/23739863/170943417-39f96bf4-f5d3-4182-a2f4-fcd2264012ac.png)
 
+Папки infra и app
+
